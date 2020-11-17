@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+html { 
+		background: url(images/backgroundImage.jpg) no-repeat center center fixed ; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	  }
+	  ::-webkit-scrollbar {
+		display: none;
+	}
+	 .logo img{
+		float:left;
+		height:85px;
+		width:78px;
+		margin-left: 2%;
+		margin-right: -11%;
+	}
+	
+	
